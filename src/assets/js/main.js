@@ -142,7 +142,7 @@ window.onload = function() {
 
 import TestPack from 'how-to-publish-local-package';
 
-let test = new TestPack();
+let test = new TestPack( 'from npm package' );
     test.sayHello();
 
 

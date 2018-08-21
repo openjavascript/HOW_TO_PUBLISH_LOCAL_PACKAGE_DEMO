@@ -16,12 +16,12 @@ module.exports = {
         filename: 'assets/js/[name].[chunkhash].js',
         chunkFilename: 'assets/js/[name].[chunkhash].js'
     },
-    resolve: {
+    /*resolve: {
         extensions: ['.js']
         , alias: {
             "how-to-publish-local-package": "/home/qiushaowei/udocs/website/how-to-publish-local-package/dist/index.js"
         }
-    },
+    },*/
     optimization: {
         runtimeChunk: {
             name: 'manifest'
