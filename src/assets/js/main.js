@@ -140,7 +140,7 @@ window.onload = function() {
 
 
 
-import TestPack from 'HOW_TO_PUBLISH_LOCAL_PACKAGE';
+import TestPack from 'how-to-publish-local-package';
 
 let test = new TestPack();
     test.sayHello();

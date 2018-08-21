@@ -19,7 +19,7 @@ module.exports = {
     resolve: {
         extensions: ['.js']
         , alias: {
-            "HOW_TO_PUBLISH_LOCAL_PACKAGE": "/home/qiushaowei/udocs/website/how-to-publish-local-package-demo/dist/index.js"
+            "how-to-publish-local-package": "/home/qiushaowei/udocs/website/how-to-publish-local-package/dist/index.js"
         }
     },
     optimization: {
