@@ -144,3 +144,18 @@ import TestPack from 'how-to-publish-local-package';
 
 let test = new TestPack();
     test.sayHello();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
