@@ -15,7 +15,7 @@ module.exports = merge(common, {
     devServer: {
         contentBase: path.resolve(__dirname, 'dist'),
         compress: true,
-        port: 9000,
+        port: 3600,
         disableHostCheck: true,
         host: '0.0.0.0',
     },

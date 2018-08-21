@@ -131,3 +131,16 @@ window.onload = function() {
 //     }
 //     requestAnimationFrame(animate);
 // }
+
+
+
+
+
+
+
+
+
+import TestPack from 'HOW_TO_PUBLISH_LOCAL_PACKAGE';
+
+let test = new TestPack();
+    test.sayHello();
